@@ -1,6 +1,6 @@
 # COMPUTATIONAL_METHODS_FOR_FINANCE_CW1
  INDIVIDUAL AUTHENTIC ASSESSMENT_7FNCE041W.1
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Python Finance Analysis Project**
 
@@ -58,6 +58,9 @@ i)   CourseWork1_CMF.ipynb: The main Jupyter Notebook containing code and explan
 ii)  README.md: Project overview and instructions.
 
 iii) requirements.txt: List of required libraries and dependencies (optional, if you choose to create one).
+
+
+*************************************************************************************************************************************************************************************************************
 
 License
 GNU General Public License (GPL)
