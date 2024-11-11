@@ -20,8 +20,11 @@ YFinance: Retrieval of financial data, such as stock prices, directly from Yahoo
 2. Data Handling
 
 a.Selects two FTSE 100 equities (e.g., Unilever and HSBC).
+
 b.Downloads two years of daily historical data for each equity using yfinance.
+
 c.Visualizes stock price movements over time.
+
 d.Calculates annualized returns and volatility, providing insight into each equity’s risk-return profile.
 
 3.Financial Analysis
